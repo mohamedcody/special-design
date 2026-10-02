@@ -2,6 +2,10 @@
 
 A responsive creative agency landing page built with plain HTML, CSS, and JavaScript. The template focuses on a clean single-page experience with interactive customization controls and smooth navigation between sections.
 
+## Live Demo
+
+Visit the live website: [Special Design](https://ahmedesam-415.github.io/Creat-Template-With-Html-Css-Js/)
+
 ## Preview
 
 Open `index.html` in a browser to view the project locally.
